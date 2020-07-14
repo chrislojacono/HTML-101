@@ -50,3 +50,18 @@ section:last-of-type{
 .card img{
     height: 200px;
 }
+.people{
+    border: 10px solid goldenrod;
+    float: left;
+    width: 50%;
+    margin:0;
+    padding: 0;
+    text-align: center;
+    display: block;
+}
+.people img{
+  width: 100%;
+  height: 50%;
+   
+}
+
