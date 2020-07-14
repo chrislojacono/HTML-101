@@ -42,3 +42,11 @@ footer{
 section:last-of-type{
     margin-bottom: 50px;
 }
+.card{
+    border: 10px solid darkgoldenrod;
+    width: 100px;
+    float: left;
+}
+.card img{
+    height: 200px;
+}
